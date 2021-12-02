@@ -1,14 +1,14 @@
 # Enlaces_Importantes
 
-##NODE.JS
+## NODE.JS
 ```sh
  https://nodejs.org/es/download/
 ```
-##VISUAL STUDIO
+## VISUAL STUDIO
 ```sh
  https://visualstudio.microsoft.com/es/downloads/
 ```
-##PINATA CLOUD IPFS
+## PINATA CLOUD IPFS
 ```sh
  https://app.pinata.cloud/
 ```
